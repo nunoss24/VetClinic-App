@@ -1,0 +1,27 @@
+viseu
+	1;Afonso Costa;viseu;19950512
+	2;Rui Ambrósio;viseu;19911101
+	3;José Martins;viseu;19721024
+----------------------------------------------
+leiria
+	4;João Leno;leiria;19870425
+	5;Simão Lopes;leiria;19930101
+	6;Bruno Lopes;leiria;19840209
+	7;António Costa;leiria;20070617
+	8;Bruno Carvalho;leiria;19640802
+----------------------------------------------
+lisboa
+	9;Luis Vieira;lisboa;19231103
+	10;Pinto Costa;lisboa;20030802
+	11;Rui Costa;lisboa;20050802
+----------------------------------------------
+porto
+	12;Frederico Varandas;porto;19731229
+	13;Diana Alvalade;porto;20021225
+	14;Madalena Leão;porto;19990929
+	15;Xavier Almeida;porto;20000412
+----------------------------------------------
+faro
+	16;Josefina Abrantes;faro;20090525
+	19;Dolores Aveiro;faro;18950205
+----------------------------------------------

@@ -1,0 +1,317 @@
+<Loja_Alimentar>
+	<Cidade>Viseu
+		<Cliente>
+			<ID>1</ID>
+			<Nome>Afonso Costa</Nome>
+			<Data_de_Nascimento>19950512</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>2</ID>
+			<Nome>Rui Ambrósio</Nome>
+			<Data_de_Nascimento>19911101</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>3</ID>
+			<Nome>José Martins</Nome>
+			<Data_de_Nascimento>19721024</Data_de_Nascimento>
+		</Cliente>
+	</Cidade>
+	<Cidade>Leiria
+		<Cliente>
+			<ID>4</ID>
+			<Nome>João Leno</Nome>
+			<Data_de_Nascimento>19870425</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>5</ID>
+			<Nome>Simão Lopes</Nome>
+			<Data_de_Nascimento>19930101</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>6</ID>
+			<Nome>Bruno Lopes</Nome>
+			<Data_de_Nascimento>19840209</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>7</ID>
+			<Nome>António Costa</Nome>
+			<Data_de_Nascimento>20070617</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>8</ID>
+			<Nome>Bruno Carvalho</Nome>
+			<Data_de_Nascimento>19640802</Data_de_Nascimento>
+		</Cliente>
+	</Cidade>
+	<Cidade>Lisboa
+		<Cliente>
+			<ID>9</ID>
+			<Nome>Luis Vieira</Nome>
+			<Data_de_Nascimento>19231103</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>10</ID>
+			<Nome>Pinto Costa</Nome>
+			<Data_de_Nascimento>20030802</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>11</ID>
+			<Nome>Rui Costa</Nome>
+			<Data_de_Nascimento>20050802</Data_de_Nascimento>
+		</Cliente>
+	</Cidade>
+	<Cidade>Porto
+		<Cliente>
+			<ID>12</ID>
+			<Nome>Frederico Varandas</Nome>
+			<Data_de_Nascimento>19731229</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>13</ID>
+			<Nome>Diana Alvalade</Nome>
+			<Data_de_Nascimento>20021225</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>14</ID>
+			<Nome>Madalena Leão</Nome>
+			<Data_de_Nascimento>19990929</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>15</ID>
+			<Nome>Xavier Almeida</Nome>
+			<Data_de_Nascimento>20000412</Data_de_Nascimento>
+		</Cliente>
+	</Cidade>
+	<Cidade>Faro
+		<Cliente>
+			<ID>16</ID>
+			<Nome>Josefina Abrantes</Nome>
+			<Data_de_Nascimento>20090525</Data_de_Nascimento>
+		</Cliente>
+		<Cliente>
+			<ID>19</ID>
+			<Nome>Dolores Aveiro</Nome>
+			<Data_de_Nascimento>18950205</Data_de_Nascimento>
+		</Cliente>
+	</Cidade>
+	<Area_do_Produto>Refrigerantes
+		<Produto>
+			<ID>1</ID>
+			<Nome>Guaraná</Nome>
+			<Preço_Unitário>1,2</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>10</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>2</ID>
+			<Nome>Pepsi</Nome>
+			<Preço_Unitário>1,1</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>15</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>3</ID>
+			<Nome>Sumol</Nome>
+			<Preço_Unitário>1,3</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>2</Quantidade_Disponivel>
+		</Produto>
+	</Area_do_Produto>
+	<Area_do_Produto>Conservas
+		<Produto>
+			<ID>4</ID>
+			<Nome>Atum</Nome>
+			<Preço_Unitário>1,39</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>7</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>5</ID>
+			<Nome>Salsichas</Nome>
+			<Preço_Unitário>0,89</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>16</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>6</ID>
+			<Nome>Sardinha</Nome>
+			<Preço_Unitário>0,94</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>6</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>7</ID>
+			<Nome>Feijão</Nome>
+			<Preço_Unitário>0,99</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>0</Quantidade_Disponivel>
+		</Produto>
+	</Area_do_Produto>
+	<Area_do_Produto>Fruta
+		<Produto>
+			<ID>8</ID>
+			<Nome>Banana</Nome>
+			<Preço_Unitário>0,89</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>20</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>9</ID>
+			<Nome>Morango</Nome>
+			<Preço_Unitário>3,99</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>43</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>10</ID>
+			<Nome>Abacaxi</Nome>
+			<Preço_Unitário>1,99</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>10</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>11</ID>
+			<Nome>Mirtilo</Nome>
+			<Preço_Unitário>7</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>58</Quantidade_Disponivel>
+		</Produto>
+	</Area_do_Produto>
+	<Area_do_Produto>Legumes
+		<Produto>
+			<ID>13</ID>
+			<Nome>Bróculos</Nome>
+			<Preço_Unitário>1,49</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>7,2</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>14</ID>
+			<Nome>Cenoura</Nome>
+			<Preço_Unitário>0,99</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>14</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>15</ID>
+			<Nome>Beringela</Nome>
+			<Preço_Unitário>2,39</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>5</Quantidade_Disponivel>
+		</Produto>
+	</Area_do_Produto>
+	<Area_do_Produto>Snacks
+		<Produto>
+			<ID>16</ID>
+			<Nome>Doritos</Nome>
+			<Preço_Unitário>2,75</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>20</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>17</ID>
+			<Nome>Pipoca</Nome>
+			<Preço_Unitário>0,89</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>2</Quantidade_Disponivel>
+		</Produto>
+		<Produto>
+			<ID>18</ID>
+			<Nome>Barra Prozis</Nome>
+			<Preço_Unitário>0,8</Preço_Unitário>
+			<Unidade_Medida>und</Unidade_Medida>
+			<Quantidade_Disponivel>42</Quantidade_Disponivel>
+		</Produto>
+	</Area_do_Produto>
+	<Area_do_Produto>Talho
+		<Produto>
+			<ID>32</ID>
+			<Nome>Pá de Porco</Nome>
+			<Preço_Unitário>2,99</Preço_Unitário>
+			<Unidade_Medida>kg</Unidade_Medida>
+			<Quantidade_Disponivel>3,5</Quantidade_Disponivel>
+		</Produto>
+	</Area_do_Produto>
+	<Historico_de_Vendas>
+		<Venda>
+			<ID_do_Cliente>1</ID_do_Cliente>
+			<Nome_do_Cliente>Afonso Costa</Nome_do_Cliente>
+			<Area_do_Produto>Conservas</Area_do_Produto>
+			<Nome_do_Produto>Salsichas</Nome_do_Produto>
+			<Preço_Unitário>0,89</Preço_Unitário>
+			<Quantidade_Disponivel>16</Quantidade_Disponivel>
+			<Quantidade_Comprada>2</Quantidade_Comprada>
+			<Preço_Total>1,78</Preço_Total>
+		</Venda>
+		<Venda>
+			<ID_do_Cliente>5</ID_do_Cliente>
+			<Nome_do_Cliente>Simão Lopes</Nome_do_Cliente>
+			<Area_do_Produto>Fruta</Area_do_Produto>
+			<Nome_do_Produto>Abacaxi</Nome_do_Produto>
+			<Preço_Unitário>1,99</Preço_Unitário>
+			<Quantidade_Disponivel>10</Quantidade_Disponivel>
+			<Quantidade_Comprada>1</Quantidade_Comprada>
+			<Preço_Total>1,99</Preço_Total>
+		</Venda>
+		<Venda>
+			<ID_do_Cliente>7</ID_do_Cliente>
+			<Nome_do_Cliente>António Costa</Nome_do_Cliente>
+			<Area_do_Produto>Conservas</Area_do_Produto>
+			<Nome_do_Produto>Sardinha</Nome_do_Produto>
+			<Preço_Unitário>0,94</Preço_Unitário>
+			<Quantidade_Disponivel>6</Quantidade_Disponivel>
+			<Quantidade_Comprada>2</Quantidade_Comprada>
+			<Preço_Total>1,88</Preço_Total>
+		</Venda>
+		<Venda>
+			<ID_do_Cliente>3</ID_do_Cliente>
+			<Nome_do_Cliente>José Martins</Nome_do_Cliente>
+			<Area_do_Produto>Refrigerantes</Area_do_Produto>
+			<Nome_do_Produto>Pepsi</Nome_do_Produto>
+			<Preço_Unitário>1,1</Preço_Unitário>
+			<Quantidade_Disponivel>15</Quantidade_Disponivel>
+			<Quantidade_Comprada>5</Quantidade_Comprada>
+			<Preço_Total>5,5</Preço_Total>
+		</Venda>
+		<Venda>
+			<ID_do_Cliente>15</ID_do_Cliente>
+			<Nome_do_Cliente>Xavier Almeida</Nome_do_Cliente>
+			<Area_do_Produto>Snacks</Area_do_Produto>
+			<Nome_do_Produto>Doritos</Nome_do_Produto>
+			<Preço_Unitário>2,75</Preço_Unitário>
+			<Quantidade_Disponivel>20</Quantidade_Disponivel>
+			<Quantidade_Comprada>2</Quantidade_Comprada>
+			<Preço_Total>5,5</Preço_Total>
+		</Venda>
+		<Venda>
+			<ID_do_Cliente>12</ID_do_Cliente>
+			<Nome_do_Cliente>Frederico Varandas</Nome_do_Cliente>
+			<Area_do_Produto>Fruta</Area_do_Produto>
+			<Nome_do_Produto>Abacaxi</Nome_do_Produto>
+			<Preço_Unitário>1,99</Preço_Unitário>
+			<Quantidade_Disponivel>10</Quantidade_Disponivel>
+			<Quantidade_Comprada>1</Quantidade_Comprada>
+			<Preço_Total>1,99</Preço_Total>
+		</Venda>
+		<Venda>
+			<ID_do_Cliente>11</ID_do_Cliente>
+			<Nome_do_Cliente>Rui Costa</Nome_do_Cliente>
+			<Area_do_Produto>Conservas</Area_do_Produto>
+			<Nome_do_Produto>Feijão</Nome_do_Produto>
+			<Preço_Unitário>0,99</Preço_Unitário>
+			<Quantidade_Disponivel>0</Quantidade_Disponivel>
+			<Quantidade_Comprada>5</Quantidade_Comprada>
+			<Preço_Total>4,95</Preço_Total>
+		</Venda>
+		<Venda>
+			<ID_do_Cliente>32</ID_do_Cliente>
+			<Nome_do_Cliente>Alberto Menezes</Nome_do_Cliente>
+			<Area_do_Produto>Talho</Area_do_Produto>
+			<Nome_do_Produto>Pá de Porco</Nome_do_Produto>
+			<Preço_Unitário>2,99</Preço_Unitário>
+			<Quantidade_Disponivel>3,5</Quantidade_Disponivel>
+			<Quantidade_Comprada>0,5</Quantidade_Comprada>
+			<Preço_Total>1,5</Preço_Total>
+		</Venda>
+	</Historico_de_Vendas>
+</Loja_Alimentar>

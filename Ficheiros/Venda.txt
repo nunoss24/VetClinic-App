@@ -1,0 +1,8 @@
+1;Afonso Costa;Conservas;Salsichas;0,89;16;2;1,78
+5;Simão Lopes;Fruta;Abacaxi;1,99;10;1;1,99
+7;António Costa;Conservas;Sardinha;0,94;6;2;1,88
+3;José Martins;Refrigerantes;Pepsi;1,1;15;5;5,5
+15;Xavier Almeida;Snacks;Doritos;2,75;20;2;5,5
+12;Frederico Varandas;Fruta;Abacaxi;1,99;10;1;1,99
+11;Rui Costa;Conservas;Feijão;0,99;0;5;4,95
+32;Alberto Menezes;Talho;Pá de Porco;2,99;3,5;0,5;1,5

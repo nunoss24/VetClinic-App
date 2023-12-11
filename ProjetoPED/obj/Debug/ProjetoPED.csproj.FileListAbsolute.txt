@@ -1,0 +1,120 @@
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\uni\1 ano\2semestre\PED\Fichas\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\João Nascimento\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\João Nascimento\Downloads\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\João Nascimento\Desktop\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\nunoa\Desktop\ProjetoPEDQuaseFinal\ProjetoPEDQuaseFinal\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\TDM\1º Ano\2º Semestre\Programação e Estruturas de Dados\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\bin\Debug\ProjetoPED.exe.config
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\bin\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\bin\Debug\ProjetoPED.pdb
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.exe
+C:\Users\Rike7\Desktop\Nova pasta\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPrático_PED_HMateus_JNascimento_NSantos\ProjetoPED\obj\Debug\ProjetoPED.pdb
